@@ -1,7 +1,7 @@
 # 🎯 Quiz-Dev
 
 **Quiz interativo** desenvolvido como projeto prático do curso de **Front-End da EBAC**.  
-O aplicativo permite que o usuário responda perguntas, receba **feedback imediato** e visualize seu desempenho final.
+O usuário responde perguntas, recebe **feedback imediato** e visualiza seu desempenho final, consolidando conceitos de **DOM, eventos e lógica em JavaScript**.
 
 ---
 
@@ -29,3 +29,25 @@ O aplicativo permite que o usuário responda perguntas, receba **feedback imedia
 - **CSS3** → Estilização e responsividade  
 - **JavaScript (Vanilla JS)** → Lógica do quiz e manipulação do DOM  
 
+---
+
+## 🧠 Aprendizados
+
+- Manipulação de elementos e eventos do **DOM**  
+- Implementação de lógica de pontuação e controle de fluxo do quiz  
+- Boas práticas em **HTML, CSS e JS**  
+- Organização de código limpo e legível  
+
+---
+
+
+## 🙏 Créditos / Agradecimentos
+
+- Projeto desenvolvido por Gabriel G.  
+- Recebeu **colaboração significativa do ChatGPT**, com sugestões detalhadas de implementação, estruturação de código, boas práticas e lógica do quiz. Toda a implementação final foi validada e organizada pelo próprio desenvolvedor.
+
+---
+
+## 📄 Licença
+
+Este projeto é educacional e pode ser estudado, clonado ou modificado livremente.
